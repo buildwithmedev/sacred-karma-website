@@ -22,24 +22,24 @@
       "name": "The Sacred Fire",
       "sanskrit": "Agni (Diya)",
       "meaning": "The dispeller of darkness. The inner fire of illumination that burns away ignorance and karma, leading the soul from darkness to light.",
-      "img": "/images/agni.jpg"
+      "img": "/images/Agni.jpg"
     }
   ],
   "deities": [
     {
       "name": "Shiva",
       "desc": "The Auspicious One, representing the transformative forces of the universe.",
-      "img": "/images/shiva.jpg"
+      "img": "/images/Shiva.jpg"
     },
     {
       "name": "Ganesha",
       "desc": "The Remover of Obstacles, patron of arts and sciences.",
-      "img": "/images/ganesha.jpg"
+      "img": "/images/Ganesha.jpg"
     },
     {
       "name": "Saraswati",
       "desc": "The Goddess of knowledge, music, art, and ultimate wisdom.",
-      "img": "/images/saraswati.jpg"
+      "img": "/images/Saraswati.jpg"
     }
   ],
   "chakras": [
