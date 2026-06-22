@@ -1,0 +1,75 @@
+/* Preloader logic */
+body.loading { overflow: hidden; }
+
+/* Enhanced Glassmorphism */
+.glass-panel { 
+    background: rgba(12, 12, 16, 0.65); 
+    backdrop-filter: blur(20px); 
+    -webkit-backdrop-filter: blur(20px);
+}
+
+/* 3D Tilt Logic for JS */
+.tilt-card {
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
+    transition: box-shadow 0.4s ease;
+}
+
+.tilt-content {
+    transform: translateZ(50px); /* Pushes text outward in 3D space */
+}
+
+/* Image Hover Zoom */
+.img-zoom-container {
+    overflow: hidden;
+}
+.img-zoom-container img {
+    transition: transform 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), filter 0.8s ease;
+}
+.tilt-card:hover .img-zoom-container img {
+    transform: scale(1.15);
+    filter: brightness(1.2);
+}
+
+/* Mystic Aura */
+.mystic-smoke {
+    background: radial-gradient(circle at 40% 60%, rgba(227, 66, 52, 0.15), transparent 50%),
+                radial-gradient(circle at 70% 30%, rgba(255, 215, 0, 0.1), transparent 40%);
+    animation: drift 20s ease-in-out infinite alternate;
+}
+@keyframes drift {
+    0% { transform: scale(1) translate(0px, 0px); }
+    100% { transform: scale(1.2) translate(-40px, 40px); }
+}
+
+/* Custom Cursor */
+body, a, button, input, textarea { cursor: none !important; }
+.cursor-dot { width: 8px; height: 8px; background-color: #FFD700; border-radius: 50%; position: fixed; pointer-events: none; z-index: 9999; transform: translate(-50%, -50%); transition: width 0.2s, height 0.2s; }
+.cursor-outline { width: 40px; height: 40px; border: 1px solid rgba(255, 215, 0, 0.6); border-radius: 50%; position: fixed; pointer-events: none; z-index: 9998; transform: translate(-50%, -50%); transition: transform 0.1s ease-out, width 0.3s, height 0.3s; }
+.cursor-hover .cursor-outline { width: 70px; height: 70px; border-color: #E34234; border-style: dashed; animation: spin 4s linear infinite; background: rgba(227, 66, 52, 0.1); }
+@keyframes spin { 100% { transform: translate(-50%, -50%) rotate(360deg); } }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #050507; }
+::-webkit-scrollbar-thumb { background: linear-gradient(to bottom, #E34234, #F4BB44); border-radius: 5px; }
+
+/* ------------------------------------
+   NEW: Chakra Enhancements & Lighting 
+--------------------------------------- */
+.chakra-card {
+    transition: all 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.chakra-card:hover {
+    transform: translateY(-10px);
+}
+
+.chakra-orb {
+    animation: pulse-glow 3s infinite alternate;
+}
+
+@keyframes pulse-glow {
+    0% { transform: scale(0.95); filter: brightness(0.5); }
+    100% { transform: scale(1.05); filter: brightness(1.4); }
+}

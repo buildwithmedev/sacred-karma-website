@@ -1,0 +1,201 @@
+{
+  "symbols": [
+    {
+      "name": "The Primordial Sound",
+      "sanskrit": "Om (ॐ)",
+      "meaning": "The vibration of the supreme. It represents the past, present, and future, and the waking, dreaming, and deep sleep states of consciousness.",
+      "img": "/images/om.jpg"
+    },
+    {
+      "name": "The Divine Blossom",
+      "sanskrit": "Padma (Lotus)",
+      "meaning": "A symbol of ultimate purity and spiritual awakening. Though its roots are in the dark mud, it blooms flawlessly above the water, completely unstained.",
+      "img": "/images/lotus.jpg"
+    },
+    {
+      "name": "The Cosmic Geometry",
+      "sanskrit": "Sri Yantra",
+      "meaning": "A mystical diagram of nine interlocking triangles. It represents the beautiful, infinite union of the divine masculine (Shiva) and feminine (Shakti).",
+      "img": "/images/shree yantra.jpg"
+    },
+    {
+      "name": "The Sacred Fire",
+      "sanskrit": "Agni (Diya)",
+      "meaning": "The dispeller of darkness. The inner fire of illumination that burns away ignorance and karma, leading the soul from darkness to light.",
+      "img": "/images/agni.jpg"
+    }
+  ],
+  "deities": [
+    {
+      "name": "Shiva",
+      "desc": "The Auspicious One, representing the transformative forces of the universe.",
+      "img": "/images/shiva.jpg"
+    },
+    {
+      "name": "Ganesha",
+      "desc": "The Remover of Obstacles, patron of arts and sciences.",
+      "img": "/images/ganesha.jpg"
+    },
+    {
+      "name": "Saraswati",
+      "desc": "The Goddess of knowledge, music, art, and ultimate wisdom.",
+      "img": "/images/saraswati.jpg"
+    }
+  ],
+  "chakras": [
+    {
+      "name": "Muladhara (Root)",
+      "color": "#ff3333",
+      "desc": "Foundation, grounding, and survival. Located at the base of the spine.",
+      "img": "/images/Chakra.jpg"
+    },
+    {
+      "name": "Svadhishthana (Sacral)",
+      "color": "#ff9933",
+      "desc": "Creativity, passion, and pleasure. Located below the navel.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Svadhisthana.svg/512px-Svadhisthana.svg.png"
+    },
+    {
+      "name": "Manipura (Solar Plexus)",
+      "color": "#FFD700",
+      "desc": "Personal power, will, and self-esteem. Located in the stomach area.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Manipura.svg/512px-Manipura.svg.png"
+    },
+    {
+      "name": "Anahata (Heart)",
+      "color": "#33cc33",
+      "desc": "Love, compassion, and connection. Located in the center of the chest.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Anahata.svg/512px-Anahata.svg.png"
+    },
+    {
+      "name": "Vishuddha (Throat)",
+      "color": "#33ccff",
+      "desc": "Communication, truth, and expression. Located in the throat.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vishuddha.svg/512px-Vishuddha.svg.png"
+    },
+    {
+      "name": "Ajna (Third Eye)",
+      "color": "#6633ff",
+      "desc": "Intuition, imagination, and wisdom. Located between the eyebrows.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ajna.svg/512px-Ajna.svg.png"
+    },
+    {
+      "name": "Sahasrara (Crown)",
+      "color": "#cc33ff",
+      "desc": "Spiritual connection and cosmic consciousness. Located at the top of the head.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sahasrara.svg/512px-Sahasrara.svg.png"
+    }
+  ],
+  "texts": [
+    {
+      "year": "c. 1500 BCE",
+      "title": "The Rigveda",
+      "desc": "The oldest known Vedic Sanskrit text. A profound collection of thousands of hymns praising the divine forces of nature and establishing the concept of cosmic order (Rita)."
+    },
+    {
+      "year": "c. 800 - 500 BCE",
+      "title": "The Upanishads",
+      "desc": "The culmination of Vedic thought. These mystical texts shift the focus from external fire rituals to internal meditation, deeply exploring the ultimate oneness of the individual soul (Atman) and the supreme universal consciousness (Brahman)."
+    },
+    {
+      "year": "c. 500 - 100 BCE",
+      "title": "The Ramayana",
+      "desc": "The great epic poem by Sage Valmiki. It masterfully explores human values, the complex nature of Dharma, and the highest ideals of duty, love, and devotion through the life of Lord Rama."
+    },
+    {
+      "year": "c. 400 BCE - 200 CE",
+      "title": "The Mahabharata & Gita",
+      "desc": "The longest epic poem ever written in human history. Nestled within its massive narrative of the Kurukshetra War is the Bhagavad Gita, the ultimate philosophical discourse on duty (Karma), devotion (Bhakti), and knowledge (Jnana) delivered by Lord Krishna."
+    },
+    {
+      "year": "c. 200 BCE",
+      "title": "Yoga Sutras of Patanjali",
+      "desc": "The foundational text of classical Yoga. It brilliantly outlines the 'Eight Limbs' (Ashtanga) of spiritual practice, meticulously mapping the journey from ethical living and breath control to absolute spiritual absorption (Samadhi)."
+    },
+    {
+      "year": "c. 200 BCE - 200 CE",
+      "title": "The Natya Shastra",
+      "desc": "A brilliant ancient treatise on the performing arts, theater, and dance. It introduced the profound concept of 'Rasa'—the aesthetic flavor or emotional essence that art must evoke in the consciousness of the audience."
+    },
+    {
+      "year": "c. 500 CE",
+      "title": "The Devi Mahatmyam",
+      "desc": "A spectacular philosophical text that revolutionized the spiritual landscape by describing the Ultimate Reality as the Divine Feminine (Shakti), fiercely destroying the demons of ego and ignorance to preserve the universe."
+    },
+    {
+      "year": "12th - 16th Century CE",
+      "title": "The Bhakti Renaissance",
+      "desc": "A massive spiritual awakening led by poet-saints like Kabir, Mirabai, and Tulsidas. They dissolved rigid dogmas and social barriers, teaching that the Divine is reached not through complex rituals, but through pure, ecstatic, and unconditional love."
+    }
+  ],
+  "gurus": [
+    {
+      "name": "Adi Shankaracharya",
+      "title": "The Propounder of Non-Duality",
+      "philosophy": "Advaita Vedanta: The profound realization that the individual soul (Atman) and the ultimate reality (Brahman) are completely identical.",
+      "quote": "The world is an illusion, Brahman alone is real.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adi_Shankara_with_Disciples.jpg/800px-Adi_Shankara_with_Disciples.jpg"
+    },
+    {
+      "name": "Swami Vivekananda",
+      "title": "The Lion of Vedanta",
+      "philosophy": "Practical Vedanta: Serving humanity is the highest form of worship. He bridged ancient Eastern spirituality with the modern Western world.",
+      "quote": "Arise, awake, and stop not till the goal is reached.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Swami_Vivekananda-1893-09-signed.jpg/800px-Swami_Vivekananda-1893-09-signed.jpg"
+    },
+    {
+      "name": "Ramana Maharshi",
+      "title": "The Sage of Arunachala",
+      "philosophy": "Self-Inquiry (Vichara): The direct path to enlightenment is persistently asking oneself the question 'Who am I?' to dissolve the ego.",
+      "quote": "Your own Self-Realization is the greatest service you can render the world.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ramana_Maharshi.jpg/800px-Ramana_Maharshi.jpg"
+    },
+    {
+      "name": "Paramahansa Yogananda",
+      "title": "The Father of Yoga in the West",
+      "philosophy": "Kriya Yoga: A systematic spiritual science that accelerates human evolution, leading to cosmic consciousness and deep inner joy.",
+      "quote": "The wave is the same as the ocean, though it is not the whole ocean.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Paramahansa_Yogananda_Standard_Pose.jpg/800px-Paramahansa_Yogananda_Standard_Pose.jpg"
+    }
+  ],
+  "sins": {
+    "physical": [
+      {
+        "sin": "Himsa (Violence)",
+        "virtue": "Ahimsa (Non-violence)",
+        "quote": "True strength lies in profound gentleness."
+      },
+      {
+        "sin": "Steya (Theft)",
+        "virtue": "Asteya (Non-stealing)",
+        "quote": "Wealth gained through honesty brings lasting peace."
+      }
+    ],
+    "verbal": [
+      {
+        "sin": "Parushya (Harsh Speech)",
+        "virtue": "Madhura Bhashana (Sweet Speech)",
+        "quote": "Words should be a healing balm, not a sword."
+      },
+      {
+        "sin": "Asatya (Falsehood)",
+        "virtue": "Satya (Truthfulness)",
+        "quote": "Truth is the highest dharma."
+      }
+    ],
+    "mental": [
+      {
+        "sin": "Paradroha (Malevolence)",
+        "virtue": "Karuna (Compassion)",
+        "quote": "Wish well for all beings, for we are universally connected."
+      },
+      {
+        "sin": "Nastikya (Disbelief)",
+        "virtue": "Shraddha (Reverence)",
+        "quote": "See the divine order in the chaos of the cosmos."
+      }
+    ]
+  },
+"guestbook":[]
+}
+  

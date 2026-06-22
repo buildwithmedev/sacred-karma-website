@@ -1,0 +1,12 @@
+{
+  "name": "sacred-karma",
+  "version": "1.0.0",
+  "description": "Indian Cultural Showcase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
